@@ -27,11 +27,7 @@ Où :
 
 
 
-### Lien avec l'Analyse Mathématique
-Ce projet illustre plusieurs concepts clés :
-- **Continuité et Dérivabilité** : Le prix est une fonction continue de ses paramètres. Ses dérivées partielles (les "Grecques") permettent de mesurer le risque.
-- **Espaces de Hilbert** : En finance quantitative, les actifs sont modélisés dans des espaces de fonctions de carré intégrable $L^2$, où le produit scalaire représente l'espérance mathématique.
-- **Asymétrie du Risque** : Le gain d'un acheteur d'option est $\max(S-K, 0)$, une fonction convexe qui limite le **Drawdown** à la prime payée, tout en offrant un potentiel de gain illimité.
+
 
 ## 2. Fonctionnalités
 
