@@ -43,4 +43,5 @@ Où :
 - `numpy`, `scipy`
 
 ```bash
-pip install numpy scipy
+pip install -r requirements.txt
+python main.py
